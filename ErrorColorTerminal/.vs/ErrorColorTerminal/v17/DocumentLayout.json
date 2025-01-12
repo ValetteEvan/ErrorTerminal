@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\valet\\GitHub\\ErrorTerminal\\ErrorColorTerminal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1850896E-111C-410F-BD11-C8E1DC54DB24}|ErrorColorTerminal\\ErrorColorTerminal.vcxproj|C:\\Users\\valet\\GitHub\\ErrorTerminal\\ErrorColorTerminal\\ErrorColorTerminal\\error.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1850896E-111C-410F-BD11-C8E1DC54DB24}|ErrorColorTerminal\\ErrorColorTerminal.vcxproj|solutionrelative:ErrorColorTerminal\\error.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1850896E-111C-410F-BD11-C8E1DC54DB24}|ErrorColorTerminal\\ErrorColorTerminal.vcxproj|C:\\Users\\valet\\GitHub\\ErrorTerminal\\ErrorColorTerminal\\ErrorColorTerminal\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1850896E-111C-410F-BD11-C8E1DC54DB24}|ErrorColorTerminal\\ErrorColorTerminal.vcxproj|solutionrelative:ErrorColorTerminal\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 204,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\valet\\GitHub\\ErrorTerminal\\ErrorColorTerminal\\ErrorColorTerminal\\main.cpp",
+              "RelativeDocumentMoniker": "ErrorColorTerminal\\main.cpp",
+              "ToolTip": "C:\\Users\\valet\\GitHub\\ErrorTerminal\\ErrorColorTerminal\\ErrorColorTerminal\\main.cpp",
+              "RelativeToolTip": "ErrorColorTerminal\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-12T20:51:06.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "error.hpp",
+              "DocumentMoniker": "C:\\Users\\valet\\GitHub\\ErrorTerminal\\ErrorColorTerminal\\ErrorColorTerminal\\error.hpp",
+              "RelativeDocumentMoniker": "ErrorColorTerminal\\error.hpp",
+              "ToolTip": "C:\\Users\\valet\\GitHub\\ErrorTerminal\\ErrorColorTerminal\\ErrorColorTerminal\\error.hpp",
+              "RelativeToolTip": "ErrorColorTerminal\\error.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-12T20:50:53.051Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
