@@ -1,10 +1,10 @@
 #pragma once 
 #include <iostream>
 
-#define RED     "\033[31m"      /* Rouge */
-#define YELLOW  "\033[33m"      /* Jaune */
-#define ORANGE  "\033[38;5;214m" /* Orange clair via code 256 couleurs */
-#define RESET   "\033[0m"       /* Réinitialiser la couleur */
+#define RED     "\033[31m"          /* Rouge */
+#define YELLOW  "\033[33m"          /* Jaune */
+#define ORANGE  "\033[38;5;214m"    /* Orange  */
+#define RESET   "\033[0m"           /* Reinitialise */
 
 template <class Temp>
 void WARNING(Temp str,int level)

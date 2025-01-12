@@ -1,5 +1,8 @@
 #include <iostream>
+
+/*include this file*/
 #include "error.hpp"
+/*-----------------*/
 
 int main()
 {
@@ -8,7 +11,10 @@ int main()
     WARNING("Medium Warning", 1);
     WARNING("Medium Warning", 2);
     WARNING("Hard Warning", 3);
+    /*-----------*/
+
     /*TEST ERROR*/
     ERROR("Normal Error");
+    /*----------*/
     return 0;
 }
