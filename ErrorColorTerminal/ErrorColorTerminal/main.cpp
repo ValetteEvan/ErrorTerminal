@@ -6,16 +6,17 @@
 int main()
 {
     /*TEST WARNING*/
-    WARNING("Basic Warning", 0);
-    WARNING("Medium Warning", 1);
-    WARNING("Medium Warning", 2);
-    WARNING("Hard Warning", 3);
+    WARNING("Basic Warning", 0,true);
+    WARNING("Medium Warning", 1,true);
+    WARNING("Medium Warning", 2,false);
+    WARNING("Hard Warning", 3,true);
     /*-----------*/
 
     /*TEST ERROR*/
-    ERROR_WARNING("Normal Error"); 
+    ERROR_WARNING("Normal Error",true); 
     /*----------*/
 
-    GOOD("Test good"); 
+    GOOD("Test good",true);
+    GOOD("Test good", false);
     return 0;
 }
