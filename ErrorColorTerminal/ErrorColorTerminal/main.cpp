@@ -14,7 +14,7 @@ int main()
     ERROR_WARNING("Normal Error",true); 
     /*----------*/
 
-    GOOD("Test good",true);
-    GOOD("Test good", false);
+    //GOOD("Test good",true);
+    //GOOD("Test good", false);
     return 0;
 }

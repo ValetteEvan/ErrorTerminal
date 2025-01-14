@@ -48,16 +48,16 @@ void ERROR_WARNING(Temp str, bool color_line)
     }
 }
 
-template<class Temp> 
-void GOOD(Temp str,bool color_line)
-{
-    if (color_line)
-    {
-        std::cerr << LIGHT_GREEN << "=GOOD= : " << str << RESET << std::endl;
-    }
-    else
-    {
-        std::cerr << LIGHT_GREEN << "=GOOD= : "<< RESET << str  << std::endl; 
-    }
-}
+//template<class Temp> 
+//void GOOD(Temp str,bool color_line)
+//{
+//    if (color_line)
+//    {
+//        std::cerr << LIGHT_GREEN << "=GOOD= : " << str << RESET << std::endl;
+//    }
+//    else
+//    {
+//        std::cerr << LIGHT_GREEN << "=GOOD= : "<< RESET << str  << std::endl; 
+//    }
+//}
 
