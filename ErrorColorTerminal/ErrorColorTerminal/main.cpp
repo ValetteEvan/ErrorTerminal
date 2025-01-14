@@ -6,10 +6,8 @@
 int main()
 {
     /*TEST WARNING*/
-    WARNING("Basic Warning", 0,true);
-    WARNING("Medium Warning", 1,true);
-    WARNING("Medium Warning", 2,false);
-    WARNING("Hard Warning", 3,true);
+    WARNING_CALL("Test warning level 0", 0, true); 
+    WARNING_CALL("Critical warning level 3", 3, false); 
     /*-----------*/
 
     /*TEST ERROR*/
